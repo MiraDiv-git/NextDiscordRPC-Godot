@@ -52,8 +52,7 @@ To keep the repository clean and legal, all proprietary Discord binaries are com
 
 1. Clone the repository with its submodules:
 ```bash
-git clone --recursive [https://github.com/MiraDiv-git/NextDiscordRPC-Godot.git](https://github.com/MiraDiv-git/NextDiscordRPC-Godot.git)
-cd NextDiscordRPC-Godot
+git clone --recursive https://github.com/MiraDiv-git/NextDiscordRPC-Godot.git
 ```
 2. Download the official Discord Social SDK from the [Discord Developer Portal](https://discord.com/developers/home).
 3. Follow [THIS TUTORIAL](#-getting-discord-sdk) to place the SDK header files and libraries into the correct directories, so the linker can see them.
